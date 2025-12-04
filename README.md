@@ -172,15 +172,4 @@ We welcome contributions!
 For major changes, open an issue first to discuss the proposed modifications.
 
 ---
-
-## 📜 License
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-## 👤 Author
-
-**Thanka Bharathi** — Data Scientist & AI/ML Developer  
-📧 Email: [thankabharathi0@gmail.com]  
-🔗 LinkedIn: [https://www.linkedin.com/in/thankabharathi/]  
-🐙 GitHub: [https://github.com/ThankaBharathi]  
+ 
